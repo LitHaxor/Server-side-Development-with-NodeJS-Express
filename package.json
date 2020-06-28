@@ -1,0 +1,12 @@
+{
+  "name": "server-side",
+  "version": "0.3.3",
+  "description": "\"Learing trash\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasan",
+  "license": "MIT"
+}
