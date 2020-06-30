@@ -15,9 +15,9 @@ Get The course Here: [Server-side Development with NodeJS, Express and MongoDB!]
 ## Week 1
  ### Node Modules:
 
-*  (https://nodejs.org/api/modules.html)[Node Module]
-* (https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)[The Node.js Event Loop, Timers, and process.nextTick()]
+*  [Node Module](https://nodejs.org/api/modules.html)
+* [The Node.js Event Loop, Timers, and process.nextTick()](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
 Others
-* (http://www.commonjs.org/)[Common JS]
-* (http://wiki.commonjs.org/wiki/Modules/1.1.1)[CommonJS Module Format]
-* (http://requirejs.org/)[Requires JS]
+* [Common JS](http://www.commonjs.org/)
+* [CommonJS Module Format](http://wiki.commonjs.org/wiki/Modules/1.1.1)
+* [Requires JS](http://requirejs.org/)
