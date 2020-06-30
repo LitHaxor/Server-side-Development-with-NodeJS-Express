@@ -1,0 +1,12 @@
+{
+  "name": "node-http",
+  "version": "0.1.1",
+  "description": "\"this is node app\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hasan Ahamed",
+  "license": "MIT"
+}
