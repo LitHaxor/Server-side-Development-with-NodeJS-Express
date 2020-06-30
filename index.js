@@ -13,7 +13,8 @@ function solveRect(l,b) {
         }
     });
     console.log("This statement after the call to rect()");
-};
+}; 
+
 solveReact(3,5);
 solveReact(5,5);
 solveReact(-4,5);
