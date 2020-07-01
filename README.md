@@ -21,3 +21,21 @@ Others
 * [Common JS](http://www.commonjs.org/)
 * [CommonJS Module Format](http://wiki.commonjs.org/wiki/Modules/1.1.1)
 * [Requires JS](http://requirejs.org/)
+
+### Node and HTTP:
+
+1. ##### Node Resources:
+
+* [Node HTTP](https://nodejs.org/api/http.html)
+* [Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/)
+* [fs module](https://nodejs.org/api/fs.html)
+
+2. ##### HTTP Resources:
+
+* [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [List of HTTP Status Codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+* [Postman](http://getpostman.com/)
+
+3. ##### Introduction to Express:
+    In this lesson you will learn about the Express framework that enables implementing and deploying powerful web servers based on Node
+* 
