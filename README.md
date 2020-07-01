@@ -36,6 +36,18 @@ Others
 * [List of HTTP Status Codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 * [Postman](http://getpostman.com/)
 
-3. ##### Introduction to Express:
+### Introduction to Express:
     In this lesson you will learn about the Express framework that enables implementing and deploying powerful web servers based on Node
-* 
+
+1. ##### Express Resources:
+
+* [Express JS](http://expressjs.com/)
+* [Connect](https://github.com/senchalabs/connect)
+* [Express Wiki](https://github.com/expressjs/express/wiki)
+* [Morgan](https://github.com/expressjs/morgan)
+* [Body Parser](https://github.com/expressjs/body-parser)
+
+2. ##### Other Resources:
+
+* [Understanding Express.js](http://evanhahn.com/understanding-express/)
+* [A short guide to Connect Middleware](https://stephensugden.com/middleware_guide/)
