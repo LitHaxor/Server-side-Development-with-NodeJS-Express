@@ -37,7 +37,7 @@ Others
 * [Postman](http://getpostman.com/)
 
 ### Introduction to Express:
-    In this lesson you will learn about the Express framework that enables implementing and deploying powerful web servers based on Node
+In this lesson you will learn about the Express framework that enables implementing and deploying powerful web servers based on Node
 
 1. ##### Express Resources:
 
