@@ -55,4 +55,7 @@ In this lesson you will learn about the Express framework that enables implement
 
 ## Week 2
   ### Express Generator
-  
+* [Express](http://expressjs.com/)
+* [Expess Generator](http://expressjs.com/en/starter/generator.html)
+
+  ### Introduction to MongoDB
