@@ -51,3 +51,8 @@ In this lesson you will learn about the Express framework that enables implement
 
 * [Understanding Express.js](http://evanhahn.com/understanding-express/)
 * [A short guide to Connect Middleware](https://stephensugden.com/middleware_guide/)
+
+
+## Week 2
+  ### Express Generator
+  
