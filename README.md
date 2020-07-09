@@ -59,3 +59,31 @@ In this lesson you will learn about the Express framework that enables implement
 * [Expess Generator](http://expressjs.com/en/starter/generator.html)
 
   ### Introduction to MongoDB
+* [MongoDB](http://www.mongodb.org/)
+* [MongoDB documentation](http://docs.mongodb.org/manual/)
+* [MongoDB Installation](http://docs.mongodb.org/manual/installation/)
+* [MongoDB installing community Editon](https://docs.mongodb.com/manual/administration/install-community/)
+* [The mongo shell](http://docs.mongodb.org/manual/mongo/)
+
+ ### Node and MongoDB
+  1. MongoDB Resources
+    * [MongoDB Native Driver](https://github.com/mongodb/node-mongodb-native)
+    * [MongoDB NodeJS Native Driver Documentation](http://mongodb.github.io/node-mongodb-native/)
+  2. Other Resources
+    * [Callback Hell](http://callbackhell.com/)
+    * [BlueBird](http://bluebirdjs.com/docs/getting-started.html)
+    * [Bluebird - Promises in NODE js](https://alexperry.io/node/2015/03/25/promises-in-node.html)
+    * [Managing Node.js callback with Promises , Generators and other approaches](https://strongloop.com/strongblog/node-js-callback-hell-promises-generators/)
+    * [The great escape from callback hell](https://medium.com/@js_tut/the-great-escape-from-callback-hell-3006fa2c82e)
+
+     ### Mongoose ODM
+     1. Mongoose Resources
+      * [Mongoose](http://mongoosejs.com/)
+      * [Mongoose Documentation](http://mongoosejs.com/docs/guide.html)
+      * [Mongoose Schemas](http://mongoosejs.com/docs/guide.html)
+      * [Mongoose Models](http://mongoosejs.com/docs/models.html)
+      * [Mongoose Sub-documents](http://mongoosejs.com/docs/subdocs.html)
+      * [Mongoose Currency](https://www.npmjs.com/package/mongoose-currency)
+
+    2. Other Resources
+      * [Multiple collection vs Embedded documents](http://openmymind.net/Multiple-Collections-Versus-Embedded-Documents/#1)
