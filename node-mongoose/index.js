@@ -9,12 +9,10 @@ connect.then((db) => {
 
     console.log('Connected correctly to server');
 
-    var newDish = Dishes({
-        name: 'Uthappizza',
-        description: 'test'
-    });
-
-    newDish.save()
+        Dishes.create({
+            name: 'Uthappizza',
+            description: 'test'
+        })
         .then((dish) => {
             console.log(dish);
 
