@@ -3,7 +3,6 @@ const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 
 const Dishes = require('../models/dishes');
-const e = require('express');
 
 const dishRouter = express.Router();
 
@@ -80,8 +79,8 @@ dishRouter.route('/:dishId')
 
 
 dishRouter.route('/:dishId/comments')
-.get((req,res,next) => {
-    Dishes.findById(req.params.dishId)
+    .get((req,res,next) => {
+        Dishes.findById(req.params.dishId)
     .then((dish) => {
         if (dish != null) {
             res.statusCode = 200;

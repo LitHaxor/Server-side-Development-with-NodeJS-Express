@@ -87,3 +87,9 @@ In this lesson you will learn about the Express framework that enables implement
 
 2. Other Resources
 * [Multiple collection vs Embedded documents](http://openmymind.net/Multiple-Collections-Versus-Embedded-Documents/#1)
+  
+  ### REST API with Express, MongoDB and Mongoose
+
+* [REST API with Express, MongoDB and Mongoose](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
+* [REST API with Express, MongoDB and Mongoose](http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-nodejs-and-mongodb/)
+* [REST API with Express, MongoDB and Mongoose](http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/)
