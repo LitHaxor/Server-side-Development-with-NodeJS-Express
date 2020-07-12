@@ -93,3 +93,17 @@ In this lesson you will learn about the Express framework that enables implement
 * [REST API with Express, MongoDB and Mongoose](https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4)
 * [REST API with Express, MongoDB and Mongoose](http://adrianmejia.com/blog/2014/10/01/creating-a-restful-api-tutorial-with-nodejs-and-mongodb/)
 * [REST API with Express, MongoDB and Mongoose](http://cwbuecheler.com/web/tutorials/2014/restful-web-app-node-express-mongodb/)
+
+  ### Assignment 2 :
+* Mongoose Resources
+  * [Mongoose](http://mongoosejs.com/)
+  * [Mongoose Documentation](http://mongoosejs.com/docs/guide.html)
+  * [Mongoose Schemas](http://mongoosejs.com/docs/guide.html)
+  * [Mongoose Sub-documents](http://mongoosejs.com/docs/subdocs.html)
+  * [Mongoose Currency](https://www.npmjs.com/package/mongoose-currency)
+
+## Week 3
+
+  ### Basic Authentication 
+* [Basic access authentication wiki](https://en.wikipedia.org/wiki/Basic_access_authentication)
+* [Basic Access Authentication](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basic_access_authentication)
