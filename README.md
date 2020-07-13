@@ -107,3 +107,13 @@ In this lesson you will learn about the Express framework that enables implement
   ### Basic Authentication 
 * [Basic access authentication wiki](https://en.wikipedia.org/wiki/Basic_access_authentication)
 * [Basic Access Authentication](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basic_access_authentication)
+
+ ### Express Resource
+* [Cookie-parser](https://github.com/expressjs/cookie-parser)
+* [express-session](https://github.com/expressjs/session)
+* [https://www.npmjs.com/package/session-file-store](https://www.npmjs.com/package/session-file-store)
+
+ ### Other Resources
+* [HTTP Cookies](https://en.wikipedia.org/wiki/HTTP_cookie)
+* [Sessions in Express.js](http://expressjs-book.com/index.html%3Fp=128.html)
+* [Express session Management](http://www.javabeat.net/expressjs-session-management/)
